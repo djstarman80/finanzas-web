@@ -10,5 +10,5 @@ Aplicación web para gestión de gastos personales con control de tarjetas de cr
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/tuusuario/finanzas-web.git
+   git remote add origin https://github.com/djstarman80/finanzas-web.git
    git push -u origin main
