@@ -2,13 +2,24 @@
 
 Aplicación web para gestión de gastos personales con control de tarjetas de crédito.
 
-## 🚀 Despliegue en Streamlit Cloud
+## 🚀 Cómo usar
 
-1. **Subir a GitHub**:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git branch -M main
-   git remote add origin https://github.com/tuusuario/finanzas-web.git
-   git push -u origin main
+1. Accede a la app web en: [tu-enlace.streamlit.app]
+2. Usa el formulario en la barra lateral para agregar gastos
+3. Filtra y visualiza tus gastos en la pestaña principal
+4. Revisa los pagos futuros en la segunda pestaña
+
+## 📋 Características
+
+- ✅ Gestión completa de gastos
+- ✅ Control de cuotas y pagos
+- ✅ Filtros avanzados
+- ✅ Regla 5/10 automatizada
+- ✅ Base de datos SQLite integrada
+
+## 🔧 Tecnologías
+
+- Python 3.8+
+- Streamlit
+- SQLite
+- Pandas
